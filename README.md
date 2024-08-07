@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**biinaa18/biinaa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Sabrina 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavasScript
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  00001108589765sp@al.educacao.sp.gov.br
+
+   ![](https://media1.tenor.com/m/qUHte3gcLEkAAAAd/what-are-you-talking-about-lightning-mcqueen.gif)
+  
